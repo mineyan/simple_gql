@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@graphql-modules/core": "^0.7.12",
+    "apollo-server-express": "^2.9.4",
+    "express": "^4.17.1",
+    "graphql": "^14.5.8",
+    "graphql-import": "^0.7.1",
+    "graphql-tag": "^2.10.1",
+    "typescript": "^3.6.3"
+  },
+  "name": "example1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
